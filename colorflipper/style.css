@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ 
+.nav{
+    padding:20px;
+    margin-top: 20px;
+    height:20px;
+    background-color: antiquewhite;
+    
+}
+.nav-links,a {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    list-style-type:none;
+}
+
+
+.container h3{
+    text-align:center;
+    padding: 20px;
+    background-color: rgb(36, 35, 35);
+    height: 10px;
+    width:30%;
+    margin-left: 450px;
+    margin-top: 60px;
+    color: aliceblue;
+     
+}
+.container #btn{
+    text-align:center;
+    margin-left: 640px;
+    margin-top: 60px;
+}
+
+#btn{
+    color:rgb(88, 79, 79);
+    background-color: bisque;
+    margin:10px;
+    padding:3px;
+    box-shadow: 2px 4px 2px rgb(63, 55, 55) ;
+}
+#btn:hover{
+    background-color: rgb(240, 205, 163);
+}
+.color{
+    color:rgb(0, 255, 242);
+}
