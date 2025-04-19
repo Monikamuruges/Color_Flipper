@@ -1,4 +1,5 @@
-🎨 # Color_Flipper
+🎨 #Color Flipper
+
 Color Flipper is a simple and interactive web application that allows users to change the background color of the page with a single click. It offers two modes:​
 
 Simple Mode: Cycles through a predefined set of color names.
