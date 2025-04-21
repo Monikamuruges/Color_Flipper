@@ -6,9 +6,12 @@ Simple Mode: Cycles through a predefined set of color names.
 
 Hex Mode: Generates random hexadecimal color codes.
 
-🛠️ Technologies Used
-HTML5
+🛠️ Technologies Used:
+*HTML5
 
-CSS3
+*CSS3
 
-JavaScript (Vanilla)
+*JavaScript (Vanilla)
+
+## 🚀 Live Demo
+https://color-flipper-murex-pi.vercel.app/
